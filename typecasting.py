@@ -14,3 +14,16 @@ print("a is :"+str(a))
 print (i)
 print (v)
 print (a)
+
+name = "barakuda"
+gwa = 74.5
+age = 19
+is_student = True 
+
+gwa = int(gwa)
+age = float(age)
+name = bool(name)
+
+print (gwa)
+print (age)
+print (name)
